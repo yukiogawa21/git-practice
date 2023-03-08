@@ -8,3 +8,4 @@ git Hub kousinn
 
 
 aaaaaa
+コンフリクト上で更新
