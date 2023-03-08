@@ -8,4 +8,5 @@ git Hub kousinn
 
 
 aaaaaa
-github上で更新
+<<<<<<< HEAD
+コンフリクト上で更新
